@@ -81,21 +81,6 @@ namespace Matriz
 
                 }
 
-
-                /* //Declarando Arrays
-                 int tamanho = 5;
-                 int[] numeros = new int[]{tamanho};
-
-                 for(int i =0; i < tamanho; i++)
-                 {
-                     for(int colun = 0; colun < tamanho; colun++)
-                     {
-                        Console.WriteLine(numeros[i]); 
-
-                     }
-                     //Console.WriteLine("Número impresso é {0} ", numeros[i]);
-                 }
-                 */
             }
 
         }
